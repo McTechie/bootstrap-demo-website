@@ -57,7 +57,7 @@ body{
 
 // Nesting Selectors
 .carousel {
-  background:$background-dark;
+  background: $background-dark;
   .carousel-item {
     height: $carousel-item-height;
     img {
@@ -69,8 +69,22 @@ body{
   }
 }
 #carouselButton {
-  right:0px;
+  right: 0px;
   position: absolute;
   bottom: 0px;
   z-index: 1;
+}
+
+// Modals
+.modal{
+	.modal-header{
+		background: $background-dark;
+		color: floralwhite;
+		.close{
+			color: floralwhite;
+		}
+	}
+	.modal-body{
+		background: $background-pale;
+	}
 }
