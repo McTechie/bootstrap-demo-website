@@ -1,3 +1,4 @@
 # Bootstrap4
-I'm new to the exciting and diverse field of web development, and have created a responsive website utilizing the Bootstrap framework.
-The website is hosted on GitHub-Pages (dist folder) & I hope everyone likes it!
+
+- This website has been created as a part of the ***Bootstrap4*** course provided by *The Hong Kong University of Science and Technology*.
+- It is a sample website created for learning purposes and provides a simple template for a creative &amp; responsive website!
